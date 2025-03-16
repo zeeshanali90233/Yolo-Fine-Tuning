@@ -1,0 +1,5 @@
+train: D:/Projects/P2PClouds/Dataset/rice_dataset/dataset_aug/images/train
+val: D:/Projects/P2PClouds/Dataset/rice_dataset/dataset_aug/images/val
+
+nc: 1  # Number of classes (only 1 class: disease)
+names: ["disease"]  # Make sure it says "disease" and NOT "person"
