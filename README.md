@@ -62,7 +62,7 @@ python scripts/predict.py --weights models/yolo_finetuned.pt --source test_image
 The fine-tuned YOLO model consistently **outperforms** standard XML-to-YOLO conversion pipelines when trained on the Leaf Dataset annotated with CVAT. The model achieves **higher accuracy and recall**, making it a superior choice for leaf disease detection.
 
 ## Sample Prediction 🖼️
-![YOLO Prediction](images/sample_prediction.png)
+![Yolo Leave Prediction](https://github.com/user-attachments/assets/85d9ea89-f269-4159-bfc6-a2aa77ebc79c)
 
 ## Contributing 🤝
 Feel free to contribute by submitting **issues** or **pull requests**!
